@@ -1,15 +1,15 @@
 {
-  "name": "twnavbar",
+  "name": "4craft-website",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is the source code for the [4craft website](https://4craft.net), which is the website for the 4craft Minecraft server. 4craft is a multiplayer paper Minecraft server for both Bedrock and Java versions of Minecraft. Anybody is free to make any code changes to this website and submit a pull request. Doing this will be covered in the next section.",
   "main": "index.js",
   "scripts": {
     "tailwind": "npx tailwindcss -i ./src/input.css -o ./dist/css/styles.css --watch",
     "prettier": "npx prettier --write '**/*.html"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "WowMuchDoge",
+  "license": "MIT",
   "devDependencies": {
     "prettier-plugin-tailwindcss": "^0.2.1",
     "tailwindcss": "^3.2.4"
