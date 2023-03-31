@@ -8,7 +8,7 @@ This is the source code for the [4craft website](https://4craft.net), which is t
 - [Making Changes](#making-changes)
   - [Opening Issues](#opening-issues)
   - [Making Pull Requests](#making-pull-requests)
-- 
+- [Dependencies](#dependencies)
 - [License](#license)
 
 # Making Changes
